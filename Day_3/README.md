@@ -1,0 +1,4 @@
+# Day 3
+Today, I continued learning backend development using Node.js and Express.js. I understood how an Express server is created and how it listens for requests. The session mainly focused on routing, where I learned how different URLs are handled using HTTP methods like GET and POST.
+
+I also learned about middleware and how it works in the background to process requests before sending responses. Practicing simple API examples helped me understand how data is sent and received in JSON format. Overall, today’s session helped me understand how backend routes are structured and how APIs work in real applications.
