@@ -1,0 +1,13 @@
+{
+    "name": "backend-day13",
+    "version": "1.0.0",
+    "description": "Error handling in Express applications",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
