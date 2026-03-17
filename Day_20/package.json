@@ -1,0 +1,13 @@
+{
+    "name": "backend-day20-project",
+    "version": "1.0.0",
+    "description": "Mini User Management API using Node.js, Express, MongoDB",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "mongoose": "^8.0.0"
+    }
+  }
